@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-I am checking contents
-You can use the [editor on GitHub](https://github.com/BENABRAHA/bestbicycle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BENABRAHA/bestbicycle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We’re passionate about bicycles. We believe that bikes offer a simple solution to many of our communities’ complex problems. 
+Bikes are great for your personal health and for the health of our environment. Bikes can help you save money on transportation, and bikes can provide you with endless miles of fun with your family and friends.
+We proudly serve all types of cyclists, including new and veteran riders, road and mountain aficionados, and recreation and transportation cyclists. 
+Whether you prefer to shop on our website or to come visit us, we’re here to help you with all of your cycling needs. 
+Learn more about what makes us unique, and visit us today to meet our friendly staff and experience our incredible product selection.
+We sell products from the best bicycle brands in the world. We offer great value to our customers through competitive pricing, quality products, and superior customer service.
+We listen to your needs and work hard to help you find precisely the right products for you.
+If you find the same product in stock locally for a lower price within 30 days of your purchase, we’ll happily credit you the difference. Get the best products at the best price.
